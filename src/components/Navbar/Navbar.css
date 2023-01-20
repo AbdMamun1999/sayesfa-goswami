@@ -1,0 +1,33 @@
+#navbar{
+    background-color: #E7E6E4;
+}
+#navbar-brand{
+    color: #6D2E46;
+    font-family: 'Open Sans';
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+    line-height: 25px;
+}
+
+#navbar-brand span{
+    font-size: 14px;
+}
+
+
+.nav-link{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+}
+
+.nav-link-first{
+    color: #6D2E46;
+}
+
+.nav-link-first:hover{
+    color: #6D2E46;
+}
